@@ -1,0 +1,9 @@
+﻿# This file contains example, fictional events to replace the original dataset used for testing purposes.
+# The information does not correspond to real events.
+# The file was only used as a sample for testing and does not affect the system's functionality,
+# which retrieves real events via API calls.
+
+IdEvento,Descrizione,Titolo,id,createdAt,updatedAt
+10001,"<p>The Spring Art Festival will showcase paintings, sculptures, and digital art from local talents in the fictional city of Arborville.</p>","Spring Art Festival",1,Thu Jan 01 2026 10:00:00 GMT+0000 (UTC),Thu Jan 01 2026 10:00:00 GMT+0000 (UTC)
+10002,"<p>Enjoy a weekend of jazz, blues, and soul music performances across multiple venues in Meadowtown.</p>","Meadowtown Jazz Weekend",2,Thu Jan 02 2026 10:00:00 GMT+0000 (UTC),Thu Jan 02 2026 10:00:00 GMT+0000 (UTC)
+10003,"<p>The Autumn Book Fair presents local authors, storytelling workshops, and book signing sessions in Maple City.</p>","Maple City Autumn Book Fair",3,Thu Jan 03 2026 10:00:00 GMT+0000 (UTC),Thu Jan 03 2026 10:00:00 GMT+0000 (UTC)
